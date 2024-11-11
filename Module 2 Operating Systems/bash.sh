@@ -18,7 +18,7 @@ cut -c1-3,5-7,9-12 phones.txt #This command extracts only the digits from a list
 id #for permisions
 free -h #free memory
 
-<<com 
+: '
 
 ps: lists the processes executing in the current terminal for the current user
 
@@ -45,3 +45,5 @@ command < file: redirects standard input from file
 command 2> file: redirects standard error to file
 
 command1 | command2: connects the output of command1 to the input of command2
+
+'
