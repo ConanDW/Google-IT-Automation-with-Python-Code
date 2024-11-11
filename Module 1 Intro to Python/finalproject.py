@@ -46,6 +46,3 @@ events = [
 users = current_users(events)
 print(users)
 generate_report(users)
-#link for lab: 
-#https://hub.labs.coursera.org:443/connect/sharedkyhcflcx?forceRefresh=false&path=%2Fnotebooks%2FC1M6L1_Putting_It_All_Together.ipynb&isLabVersioning=file-prep
-#notes above form course not final, final is below
